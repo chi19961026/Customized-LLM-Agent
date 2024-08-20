@@ -1,4 +1,4 @@
-# Customized LLM Agent for Customer Service
+# End-to-End Customized LLM Agent: Leveraging LLMs for Efficient Data & Prompt Refinement
 
 ## Project Overview:
 This project is dedicated to developing a customized chatbot using OpenAI's pre-trained GPT models, specifically designed to handle customer service FAQs. Originally intended for a B2B consulting company to provide expert responses based on the company's in-house domain knowledge, this project has been repurposed for demonstration to manage e-commerce customer service FAQ data.
